@@ -34,13 +34,13 @@ insert into tb_student
 values('2014310102', '李怡然', '女', '1996-12-31', '辽宁', '汉', 'IS1401');
 
 insert into tb_course
-values('11003', '管理学', 2, 32, '2', 'NULL');
+values('11003', '管理学', 2, 32, '2', NULL);
 insert into tb_course
-values('11005', '会计学', 3, 48, '3', 'NULL');
+values('11005', '会计学', 3, 48, '3', NULL);
 insert into tb_course
-values('21001', '计算机基础', 3, 48, '1', 'NULL');
+values('21001', '计算机基础', 3, 48, '1', NULL);
 insert into tb_course
-values('21002', 'OFFICE高级应用', 3, 48, '2', '21001');
+values('21002', 'OFFICE高级应用', 3, 48, '2', 21001);
 insert into tb_course
 values('21004', '程序设计', 4, 64, '2', '21001');
 insert into tb_course

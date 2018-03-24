@@ -1,0 +1,3 @@
+select avg(avg(score)) from ( select avg(score) from tb_score group by studentNo) having avg(score)>=80;
+
+为什么这个就运行不了？？
