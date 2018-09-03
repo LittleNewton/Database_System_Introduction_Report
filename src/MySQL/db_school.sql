@@ -50,23 +50,3 @@ show create table tb_student \G;
 show create table tb_class \G;
 show create table tb_course \G;
 show create table tb_score \G;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
